@@ -5,3 +5,4 @@ The model predcits flow field variables (density, u velocity, v velocity, intern
 
 The model in implemented using PyTorch.
 
+Example implementation can be found in the respective scripts in the UI folder.
