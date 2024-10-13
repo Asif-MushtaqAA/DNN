@@ -9,5 +9,5 @@ UI folder has 2 scripts to generate sdf arrays and then predict flow field using
 Visualiser script allows to visualise the inferred flow field. Run the console in the Visualiser folder.  
 Example implementation can be found in the respective scripts.
 
-Note- make sure to use correct paths and download the trained DNN model frm google drive.
+Note- make sure to use correct paths and download the trained DNN model from google drive.
 
